@@ -1,0 +1,931 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS project\\Mycompiler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\While.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\While.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Word.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Word.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Break.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Break.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Do.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Do.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Else.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Else.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Op.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Op.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Or.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Or.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Type.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Type.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\If.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\If.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Env.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Env.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\lexer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\lexer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Logical.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Logical.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Mycompiler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Mycompiler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Real.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Real.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\arith.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\arith.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\arith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\arith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Constant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Constant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Constant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Constant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Tag.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Tag.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Unary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Unary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Stmt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Stmt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Temp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Temp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Token.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Token.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Stmt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Stmt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\symbols.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\symbols.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\symbols.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\symbols.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Set.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Set.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Seq.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Seq.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Rel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Rel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Expr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Expr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Setelem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Setelem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Mycompiler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Mycompiler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\lexer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\lexer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Not.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Not.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\inter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\inter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\inter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\inter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\expr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\expr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\And.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\And.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Access.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Access.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Num.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Num.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Id.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Id.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\Env.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\Env.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\VC\\Tools\\MSVC\\14.43.34808\\include\\xhash||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS project\\Mycompiler\\Mycompiler\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mycompiler\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\VC\\Tools\\MSVC\\14.43.34808\\include\\unordered_map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\new_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "parser.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\parser.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\parser.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\parser.cpp",
+              "RelativeToolTip": "Mycompiler\\parser.cpp",
+              "ViewState": "AgIAADUBAAAAAAAAAAAAAFIBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T05:41:40.487Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Set.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Set.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Set.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Set.h",
+              "RelativeToolTip": "Mycompiler\\Set.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDQAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T08:31:25.497Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Node.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Node.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\Node.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Node.cpp",
+              "RelativeToolTip": "Mycompiler\\Node.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T05:55:48.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Else.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Else.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Else.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Else.h",
+              "RelativeToolTip": "Mycompiler\\Else.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T07:55:35.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "lexer.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\lexer.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\lexer.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\lexer.cpp",
+              "RelativeToolTip": "Mycompiler\\lexer.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T18:42:34.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Env.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Env.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\Env.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Env.cpp",
+              "RelativeToolTip": "Mycompiler\\Env.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T07:07:47.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Type.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Type.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\Type.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Type.cpp",
+              "RelativeToolTip": "Mycompiler\\Type.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T05:55:40.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Op.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Op.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Op.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Op.h",
+              "RelativeToolTip": "Mycompiler\\Op.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T05:55:33.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Do.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Do.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Do.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Do.h",
+              "RelativeToolTip": "Mycompiler\\Do.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T07:55:35.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Or.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Or.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Or.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Or.h",
+              "RelativeToolTip": "Mycompiler\\Or.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T15:47:13.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Node.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Node.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Node.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Node.h",
+              "RelativeToolTip": "Mycompiler\\Node.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T11:02:01.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Array.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Array.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Array.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Array.h",
+              "RelativeToolTip": "Mycompiler\\Array.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T15:56:48.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Break.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Break.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Break.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Break.h",
+              "RelativeToolTip": "Mycompiler\\Break.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T17:48:25.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Word.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Word.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Word.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Word.h",
+              "RelativeToolTip": "Mycompiler\\Word.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T05:55:37.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "While.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\While.h",
+              "RelativeDocumentMoniker": "Mycompiler\\While.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\While.h",
+              "RelativeToolTip": "Mycompiler\\While.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T05:55:38.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "If.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\If.h",
+              "RelativeDocumentMoniker": "Mycompiler\\If.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\If.h",
+              "RelativeToolTip": "Mycompiler\\If.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T12:47:19.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Logical.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Logical.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Logical.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Logical.h",
+              "RelativeToolTip": "Mycompiler\\Logical.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T05:03:43.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Mycompiler.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Mycompiler.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Mycompiler.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Mycompiler.h",
+              "RelativeToolTip": "Mycompiler\\Mycompiler.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T11:04:26.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "parser.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\parser.h",
+              "RelativeDocumentMoniker": "Mycompiler\\parser.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\parser.h",
+              "RelativeToolTip": "Mycompiler\\parser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T17:52:38.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Real.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Real.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Real.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Real.h",
+              "RelativeToolTip": "Mycompiler\\Real.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T13:19:40.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "arith.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\arith.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\arith.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\arith.cpp",
+              "RelativeToolTip": "Mycompiler\\arith.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T07:52:42.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "arith.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\arith.h",
+              "RelativeDocumentMoniker": "Mycompiler\\arith.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\arith.h",
+              "RelativeToolTip": "Mycompiler\\arith.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T17:24:40.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Constant.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Constant.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Constant.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Constant.h",
+              "RelativeToolTip": "Mycompiler\\Constant.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T07:45:28.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Constant.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Constant.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\Constant.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Constant.cpp",
+              "RelativeToolTip": "Mycompiler\\Constant.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T07:54:03.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Tag.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Tag.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Tag.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Tag.h",
+              "RelativeToolTip": "Mycompiler\\Tag.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T19:23:51.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Stmt.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Stmt.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Stmt.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Stmt.h",
+              "RelativeToolTip": "Mycompiler\\Stmt.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T10:55:23.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Unary.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Unary.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Unary.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Unary.h",
+              "RelativeToolTip": "Mycompiler\\Unary.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T16:55:11.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Type.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Type.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Type.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Type.h",
+              "RelativeToolTip": "Mycompiler\\Type.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T11:04:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Token.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Token.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Token.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Token.h",
+              "RelativeToolTip": "Mycompiler\\Token.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T07:11:17.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Temp.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Temp.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Temp.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Temp.h",
+              "RelativeToolTip": "Mycompiler\\Temp.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T11:04:28.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Stmt.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Stmt.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\Stmt.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Stmt.cpp",
+              "RelativeToolTip": "Mycompiler\\Stmt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T05:55:45.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "symbols.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\symbols.h",
+              "RelativeDocumentMoniker": "Mycompiler\\symbols.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\symbols.h",
+              "RelativeToolTip": "Mycompiler\\symbols.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T19:23:52.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Temp.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Temp.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\Temp.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Temp.cpp",
+              "RelativeToolTip": "Mycompiler\\Temp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T05:55:43.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Rel.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Rel.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Rel.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Rel.h",
+              "RelativeToolTip": "Mycompiler\\Rel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T13:19:40.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "symbols.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\symbols.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\symbols.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\symbols.cpp",
+              "RelativeToolTip": "Mycompiler\\symbols.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T19:23:54.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Expr.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Expr.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\Expr.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Expr.cpp",
+              "RelativeToolTip": "Mycompiler\\Expr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T05:56:03.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Setelem.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Setelem.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Setelem.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Setelem.h",
+              "RelativeToolTip": "Mycompiler\\Setelem.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T12:09:48.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Seq.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Seq.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Seq.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Seq.h",
+              "RelativeToolTip": "Mycompiler\\Seq.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T17:47:47.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Mycompiler.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Mycompiler.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\Mycompiler.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Mycompiler.cpp",
+              "RelativeToolTip": "Mycompiler\\Mycompiler.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T05:55:52.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "lexer.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\lexer.h",
+              "RelativeDocumentMoniker": "Mycompiler\\lexer.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\lexer.h",
+              "RelativeToolTip": "Mycompiler\\lexer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T15:46:50.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Not.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Not.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Not.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Not.h",
+              "RelativeToolTip": "Mycompiler\\Not.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T07:52:19.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "inter.cpp",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\inter.cpp",
+              "RelativeDocumentMoniker": "Mycompiler\\inter.cpp",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\inter.cpp",
+              "RelativeToolTip": "Mycompiler\\inter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T05:56:02.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "inter.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\inter.h",
+              "RelativeDocumentMoniker": "Mycompiler\\inter.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\inter.h",
+              "RelativeToolTip": "Mycompiler\\inter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T17:49:24.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "expr.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\expr.h",
+              "RelativeDocumentMoniker": "Mycompiler\\expr.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\expr.h",
+              "RelativeToolTip": "Mycompiler\\expr.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T07:39:17.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Access.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Access.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Access.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Access.h",
+              "RelativeToolTip": "Mycompiler\\Access.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T16:57:25.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "And.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\And.h",
+              "RelativeDocumentMoniker": "Mycompiler\\And.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\And.h",
+              "RelativeToolTip": "Mycompiler\\And.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T07:52:15.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Num.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Num.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Num.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Num.h",
+              "RelativeToolTip": "Mycompiler\\Num.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T15:47:12.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Id.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Id.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Id.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Id.h",
+              "RelativeToolTip": "Mycompiler\\Id.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T07:21:12.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Env.h",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\Env.h",
+              "RelativeDocumentMoniker": "Mycompiler\\Env.h",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\Env.h",
+              "RelativeToolTip": "Mycompiler\\Env.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T07:07:44.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "xhash",
+              "DocumentMoniker": "D:\\VS\\VC\\Tools\\MSVC\\14.43.34808\\include\\xhash",
+              "RelativeDocumentMoniker": "..\\..\\VS\\VC\\Tools\\MSVC\\14.43.34808\\include\\xhash",
+              "ToolTip": "D:\\VS\\VC\\Tools\\MSVC\\14.43.34808\\include\\xhash",
+              "RelativeToolTip": "..\\..\\VS\\VC\\Tools\\MSVC\\14.43.34808\\include\\xhash",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAhwIQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-03T19:25:11.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "D:\\VS project\\Mycompiler\\Mycompiler\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "Mycompiler\\CMakeLists.txt",
+              "ToolTip": "D:\\VS project\\Mycompiler\\Mycompiler\\CMakeLists.txt",
+              "RelativeToolTip": "Mycompiler\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-03T17:49:19.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "D:\\VS\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\VS\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "D:\\VS\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\VS\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T06:35:31.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "unordered_map",
+              "DocumentMoniker": "D:\\VS\\VC\\Tools\\MSVC\\14.43.34808\\include\\unordered_map",
+              "RelativeDocumentMoniker": "..\\..\\VS\\VC\\Tools\\MSVC\\14.43.34808\\include\\unordered_map",
+              "ToolTip": "D:\\VS\\VC\\Tools\\MSVC\\14.43.34808\\include\\unordered_map",
+              "RelativeToolTip": "..\\..\\VS\\VC\\Tools\\MSVC\\14.43.34808\\include\\unordered_map",
+              "ViewState": "AgIAABwAAAAAAAAAAAAtwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-03T08:09:29.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "new_scalar.cpp",
+              "DocumentMoniker": "D:\\VS\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\VS\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ToolTip": "D:\\VS\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "RelativeToolTip": "..\\..\\VS\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T07:17:29.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

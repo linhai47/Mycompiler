@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Mycompiler.exe (Mycompiler\\Mycompiler.exe)",
+      "name": "Mycompiler.exe (Mycompiler\\Mycompiler.exe)"
+    }
+  ]
+}

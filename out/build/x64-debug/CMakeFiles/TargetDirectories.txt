@@ -1,0 +1,5 @@
+D:/VS project/Mycompiler/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/VS project/Mycompiler/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/VS project/Mycompiler/out/build/x64-debug/Mycompiler/CMakeFiles/Mycompiler.dir
+D:/VS project/Mycompiler/out/build/x64-debug/Mycompiler/CMakeFiles/edit_cache.dir
+D:/VS project/Mycompiler/out/build/x64-debug/Mycompiler/CMakeFiles/rebuild_cache.dir

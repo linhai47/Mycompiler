@@ -1,0 +1,26 @@
+# ninja log v6
+31	560	7654647454468221	Mycompiler/CMakeFiles/Mycompiler.dir/Mycompiler.cpp.obj	4f6bcdf6c23ded53
+69	655	7654599246757816	Mycompiler/CMakeFiles/Mycompiler.dir/Temp.cpp.obj	7ff62f90d10d718d
+4	162	7652174162594649	build.ninja	ff24bacc6d7aaf50
+39	577	7654647454546374	Mycompiler/CMakeFiles/Mycompiler.dir/parser.cpp.obj	469599811f5e1c75
+72	705	7654599246792855	Mycompiler/CMakeFiles/Mycompiler.dir/arith.cpp.obj	5649ab1472f24a9a
+46	660	7654599246530507	Mycompiler/CMakeFiles/Mycompiler.dir/Constant.cpp.obj	84fbe1369c48d515
+29	574	7654551797064278	Mycompiler/CMakeFiles/Mycompiler.dir/Type.cpp.obj	876071e3afd06b0a
+64	674	7654599246713131	Mycompiler/CMakeFiles/Mycompiler.dir/Stmt.cpp.obj	a93261ff4814dda2
+52	596	7654551797288599	Mycompiler/CMakeFiles/Mycompiler.dir/symbols.cpp.obj	7c4b01fec42c0424
+36	520	7654647454513835	Mycompiler/CMakeFiles/Mycompiler.dir/inter.cpp.obj	e5ffdd5d6b3b1fdc
+53	662	7654599246613465	Mycompiler/CMakeFiles/Mycompiler.dir/Expr.cpp.obj	eaaa237bbe99af2d
+29	427	7654577407205829	Mycompiler/CMakeFiles/Mycompiler.dir/lexer.cpp.obj	83af77e07b8a639e
+11	442	7654644695748751	Mycompiler/CMakeFiles/Mycompiler.dir/Node.cpp.obj	be3ef0d8348a1169
+50	703	7654599246567934	Mycompiler/CMakeFiles/Mycompiler.dir/Env.cpp.obj	82a3404112b6bbc4
+577	855	7654647459924681	Mycompiler/Mycompiler.exe	db8f1a2c930d8f2f
+46	549	7654647711888394	Mycompiler/CMakeFiles/Mycompiler.dir/inter.cpp.obj	e5ffdd5d6b3b1fdc
+42	585	7654647711846046	Mycompiler/CMakeFiles/Mycompiler.dir/Mycompiler.cpp.obj	4f6bcdf6c23ded53
+49	596	7654647711914094	Mycompiler/CMakeFiles/Mycompiler.dir/parser.cpp.obj	469599811f5e1c75
+596	874	7654647717392851	Mycompiler/Mycompiler.exe	db8f1a2c930d8f2f
+38	494	7654647923949130	Mycompiler/CMakeFiles/Mycompiler.dir/Node.cpp.obj	be3ef0d8348a1169
+494	784	7654647928505848	Mycompiler/Mycompiler.exe	db8f1a2c930d8f2f
+45	577	7654648333143601	Mycompiler/CMakeFiles/Mycompiler.dir/inter.cpp.obj	e5ffdd5d6b3b1fdc
+41	646	7654648333091042	Mycompiler/CMakeFiles/Mycompiler.dir/Mycompiler.cpp.obj	4f6bcdf6c23ded53
+49	655	7654648333182321	Mycompiler/CMakeFiles/Mycompiler.dir/parser.cpp.obj	469599811f5e1c75
+656	1024	7654648339243238	Mycompiler/Mycompiler.exe	db8f1a2c930d8f2f
